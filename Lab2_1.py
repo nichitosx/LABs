@@ -1,1 +1,2 @@
-print(10-2)
+a = not True
+print(a)
