@@ -43,7 +43,7 @@ for _ in range(19):
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab11/pic/Lab11_1.png)
 
 ## Выводы
 
@@ -82,7 +82,7 @@ for _ in range(19):
         file.write(str(current_fib) + "\n")
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab12/pic/Lab12_1.png)
 
 ## Выводы
 
