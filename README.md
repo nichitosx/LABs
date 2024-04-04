@@ -28,7 +28,7 @@ print("Кортеж чисел:", numbers_tuple)
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab6/pic/Lab6_1.png)
 
 ## Выводы
 
@@ -70,7 +70,7 @@ for t, elem in data:
     print(result)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab6/pic/Lab6_2.png)
 
 ## Выводы
 
@@ -99,7 +99,7 @@ result = count_dig(s)
 print("Самые встречаемые числа:", result)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab6/pic/Lab6_3.png)
 
 ## Выводы
 
@@ -148,7 +148,7 @@ for log_tuple, emp_test_id in data:
     print(emp_test(log_tuple, emp_test_id))
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab6/pic/Lab6_4.png)
 
 ## Выводы
 
@@ -177,7 +177,7 @@ print(max_product(nums3))
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab6/pic/Lab6_5.png)
 
 ## Выводы
 
