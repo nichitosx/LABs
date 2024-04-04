@@ -82,7 +82,7 @@ for _ in range(19):
         file.write(str(current_fib) + "\n")
 ```
 ### Результат.
-![Меню](https://github.com/nichitosx/LABs/blob/Lab12/pic/Lab12_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab11/pic/Lab11_2.png)
 
 ## Выводы
 
