@@ -60,8 +60,8 @@ except Exception as e:
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
-
+![Меню](https://github.com/nichitosx/LABs/blob/Lab7/pic/Lab7_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab7/pic/Lab7_1_1.png)
 ## Выводы
 
 Программа подсчитывает количество слов в текстовом файле и выводит информацию о самом часто встречающемся слове и количестве его вхождений. Если файл не найден или происходит ошибка, программа выводит соответствующее сообщение.
@@ -125,7 +125,7 @@ if __name__ == "__main__":
     main()
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab7/pic/Lab7_2.png)
 
 ## Выводы
 
@@ -175,7 +175,7 @@ print(num_words, "words")
 print(num_lines, "lines")
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab7/pic/Lab7_3.png)
 
 ## Выводы
 
@@ -227,7 +227,7 @@ if __name__ == "__main__":
     main()
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab7/pic/Lab7_4.png)
 
 ## Выводы
 
@@ -273,7 +273,7 @@ for product, sales in sorted_products:
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab7/pic/Lab7_5.png)
 
 ## Выводы
 

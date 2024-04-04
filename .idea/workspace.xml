@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab6">
-      <change afterPath="$PROJECT_DIR$/Lab7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +104,6 @@
     "Python.Lab7_5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Lab7",
     "last_opened_file_path": "C:/Users/Никита/Desktop/Обучение/Сессия 4/Панов лабы + проект/LABs",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -547,9 +538,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab2" />
     <MESSAGE value="lab3" />
-    <MESSAGE value="lab4" />
     <MESSAGE value="lab5" />
     <MESSAGE value="lab6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab6" />
+    <MESSAGE value="lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
   </component>
 </project>
