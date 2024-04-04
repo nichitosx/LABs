@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab6">
+      <change afterPath="$PROJECT_DIR$/Lab7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +105,11 @@
     "Python.Lab6_3.executor": "Run",
     "Python.Lab6_4.executor": "Run",
     "Python.Lab6_5.executor": "Run",
+    "Python.Lab7_1.executor": "Run",
+    "Python.Lab7_2.executor": "Run",
+    "Python.Lab7_3.executor": "Run",
+    "Python.Lab7_4.executor": "Run",
+    "Python.Lab7_5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Lab7",
@@ -522,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712248444099</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="lab6">
+      <option name="closed" value="true" />
+      <created>1712248690651</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1712248690651</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
