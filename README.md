@@ -33,7 +33,7 @@ print(result)
 ```
 
 - Скрины консоли
-  ![img_2_1.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_1.png)
+  ![img_2_1.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_1.png)
 
 - Развернутый вывод
 
@@ -52,7 +52,7 @@ a, b, c = 1, 2, 3; print(a, b, c)
 ```
 
 - Скрины консоли
-  ![img_2_2.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_2.png)
+  ![img_2_2.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_2.png)
 
 - Развернутый вывод
 
@@ -71,7 +71,7 @@ print(a, b, c)
 ```
 
 - Скрины консоли
-  ![img_2_3.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_3.png)
+  ![img_2_3.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_3.png)
 
 - Развернутый вывод
 
@@ -89,7 +89,7 @@ print(s * 2)
 ```
 
 - Скрины консоли
-  ![img_2_4.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_4.png)
+  ![img_2_4.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_4.png)
 
 - Развернутый вывод
 
@@ -109,7 +109,7 @@ print("Всего хорошего!")
 ```
 
 - Скрины консоли
-  ![img_2_5.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_5.png)
+  ![img_2_5.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_5.png)
 
 - Развернутый вывод
 
@@ -144,7 +144,7 @@ print(len('Hello World'))
 ```
 
 - Скрины консоли
-  ![img_2_7.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_7.png)
+  ![img_2_7.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_7.png)
 
 - Развернутый вывод
 
@@ -162,7 +162,7 @@ print('HELLO WORLD'.lower())
 ```
 
 - Скрины консоли
-  ![img_2_8.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_8.png)
+  ![img_2_8.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_8.png)
 
 - Развернутый вывод
 
@@ -186,7 +186,7 @@ print(f"Максимальное число в списке {numbers} равно
 ```
 
 - Скрины консоли
-  ![img_2_9.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_9.png)
+  ![img_2_9.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_9.png)
 
 - Развернутый вывод
 
@@ -207,7 +207,7 @@ print(f"Строка после замены: {s.replace(old_word, new_word)}")
 ```
 
 - Скрины консоли
-  ![img_2_10.png](https://github.com/xsadsenpai/py_practice/blob/lab2/pic/img_2_10.png)
+  ![img_2_10.png](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab2_10.png)
 
 - Развернутый вывод
 
