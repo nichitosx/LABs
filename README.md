@@ -62,7 +62,7 @@ if __name__ == '__main__':# Проверка, является ли данный
     print(f"Время выполнения программы - {time_costs}")  # Вывод временных затрат на выполнение программы
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab4_1.png)
 
 ## Выводы
 
@@ -95,7 +95,7 @@ if __name__ == "__main__":
     roll_dice()
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab4_2.png)
 
 ## Выводы
 
@@ -121,7 +121,7 @@ else:
     print("Введите число от 0 до 10 повторно")
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab4_3.png)
 
 ## Выводы
 
@@ -145,7 +145,7 @@ if __name__ == "__main__":
     print("Среднее арифметическое:", result)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab4_4.png)
 
 ## Выводы
 
@@ -187,7 +187,8 @@ if __name__ == "__main__":
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab4_5_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab4_5_2.png)
 
 ## Выводы
 
