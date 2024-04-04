@@ -52,7 +52,7 @@ print("Какой работник посетил ресторан больше 
 ```
 
 ### Результат.
-![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab5_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab5/pic/Lab5_1.png)
 
 ## Выводы
 
@@ -85,7 +85,7 @@ print("Три худших результатов:", worst_results)
 print("Все результаты начиная с 10:", results_from_10)
 ```
 ### Результат.
-![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab5_2.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab5/pic/Lab5_2.png)
 
 ## Выводы
 
@@ -133,7 +133,7 @@ print("Площадь треугольника с максимальными с�
 print("Площадь треугольника с минимальными сторонами:", min_area)
 ```
 ### Результат.
-![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab5_3.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab5/pic/Lab5_3.png)
 
 ## Выводы
 
@@ -180,7 +180,8 @@ print("Обновленный список оценок 2:", updated_grades2)
 print("Обновленный список оценок 3:", updated_grades3)
 ```
 ### Результат.
-![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab5_4.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab5/pic/Lab5_4.png)
+
 
 ## Выводы
 
@@ -237,7 +238,7 @@ print(transform_duplicates(list_3))
 ```
 
 ### Результат.
-![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab5_5.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab5/pic/Lab5_5.png)
 
 ## Выводы
 
