@@ -57,7 +57,7 @@ if __name__ == '__main__':
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab10/pic/Lab10_1.png)
 
 ## Выводы
 
@@ -106,7 +106,8 @@ except Exception as e:
     print(e)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab10/pic/Lab10_2.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab10/pic/Lab10_2_2.png)
 
 ## Выводы
 
@@ -136,7 +137,8 @@ add_two()
 
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab10/pic/Lab10_3.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab10/pic/Lab10_3_2.png)
 
 ## Выводы
 
@@ -177,7 +179,7 @@ print(calculate_sum(1000000))
 print(calculate_factorial(1000))
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab10/pic/Lab10_4.png)
 
 ## Выводы
 
@@ -192,11 +194,41 @@ print(calculate_factorial(1000))
 Создайте собственное исключение, которое будет использоваться в двух любых фрагментах кода. Исключения, которые использовались ранее в работе нельзя воссоздавать. Результатом выполнения задачи будет: класс исключения, код к котором в двух местах используется это исключение, скриншот консоли с выполненной программой и подробные комментарии, которые будут описывать работу вашего кода
 
 ```python
+class ValueTooLargeError(Exception):
+    def __init__(self, value, threshold):
+        self.value = value
+        self.threshold = threshold
 
+    def __str__(self):
+        return f"Значение {self.value} превышает порог {self.threshold}"
+
+def check_value(value):
+    threshold = 100
+    if value > threshold:
+        raise ValueTooLargeError(value, threshold)
+    else:
+        print("Значение находится в пределах допустимого порога.")
+
+try:
+    check_value(120)
+except ValueTooLargeError as e:
+    print("Ошибка:", e)
+
+def process_data(data):
+    max_threshold = 10
+    for value in data:
+        if value > max_threshold:
+            raise ValueTooLargeError(value, max_threshold)
+
+data = [5, 12, 3, 8, 15]
+try:
+    process_data(data)
+except ValueTooLargeError as e:
+    print("Ошибка:", e)
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab10/pic/Lab10_5.png)
 
 ## Выводы
 
