@@ -164,8 +164,9 @@ if __name__ == "__main__":
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
-3 crhbyf
+![Меню](https://github.com/nichitosx/LABs/blob/Lab9/pic/Lab9_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab9/pic/Lab9_2.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab9/pic/Lab9_3.png)
 ## Выводы
 
 
