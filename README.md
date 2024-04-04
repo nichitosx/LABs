@@ -134,24 +134,89 @@ for sentence in sentences:
 Программа использует методы строк для определения длины предложения, преобразования его в нижний регистр, подсчета количества гласных, замены определенных слов и проверки начала и конца предложения. Она также использует условные операторы для проверки различных условий в предложениях.
 
 ## Самостоятельная работа №5
-Напишите программу, которая преобразует 1 в 31.
-Для выполнения поставленной задачи необходимо обязательно и
-только один раз использовать:
-Цикл for
-*= 5
-+= 1
-Никаких других действий или циклов использовать нельзя
+Составьте программу, результатом которой будет данный вывод в консоль:
+
+hello world
+
+hello
+
+hello world
+
+hello
+
+hello world
+
+hello
+
+hello world
+
+hello
+
+hello world
+
+hello
+
+hello world
+
+hello
+
+Программу нужно составить из данных фрагментов кода:
+
+memory = ' world'
+
+if values not in string:
+
+while ' world' not in string:
+
+string = string + ' world'
+
+if counter in values:
+
+counter = 10
+
+string = 'hello'
+
+string = memory
+
+string = 'world'
+
+counter = 0
+
+if counter > 7:
+
+print(string + memory)
+
+print(string)
+
+while counter !=10:
+
+values = [0, 2, 4, 6, 8, 10]
+
+memory = string
+
+if counter < 10:
+
+counter += 1
+
+print(memory)
+
+memory = string
+
+Строки кода можно использовать только один раз. Необязательно использовать все строки кода.
 
 ```python
-a = 1
-for _ in range(2):
-    a *= 5
-    a += 1
-print(a)
+string = 'hello'
+memory = ' world'
+counter = 0
+
+while counter != 6:
+    print(string + memory)
+    print(string)
+    counter += 1
 ```
 ### Результат.
 ![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
 
 ## Выводы
 
-Данная программа использует цикл for для повторения блока кода два раза. В каждой итерации значение переменной a умножается на 5 и прибавляется 1. В конце программы выводится значение переменной a.
+. В каждой итерации цикла программа выводит комбинацию string и memory, а затем только string. Переменная counter используется для отслеживания количества итераций цикла и остановки выполнения после 6 итераций.
