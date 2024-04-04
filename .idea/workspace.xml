@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab4">
-      <change beforePath="$PROJECT_DIR$/Lab4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +86,7 @@
     "Python.Lab3_5.executor": "Run",
     "Python.Lab4_1.executor": "Run",
     "Python.Lab4_2.executor": "Run",
+    "Python.Lab4_3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Lab4",
@@ -397,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712235656974</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="lab4">
+      <option name="closed" value="true" />
+      <created>1712236041815</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712236041815</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
