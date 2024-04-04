@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab10">
-      <change afterPath="$PROJECT_DIR$/Lab11_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab11_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -598,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712255038032</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="lab10">
+      <option name="closed" value="true" />
+      <created>1712255734813</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1712255734813</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
