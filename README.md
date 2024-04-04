@@ -39,7 +39,7 @@ print(f"Текущая скорость: {my_car.speed} км/ч")
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab8/pic/Lab8_1.png)
 
 ## Выводы
 
@@ -83,7 +83,7 @@ print(f"Возраст автомобиля: {age} года")
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab8/pic/Lab8_2.png)
 
 ## Выводы
 
@@ -126,7 +126,7 @@ print(f"Текущая скорость: {my_electric_car.speed} км/ч")
 print(f"Уровень заряда батареи: {my_electric_car.battery_level}%")
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab8/pic/Lab8_3.png)
 
 ## Выводы
 
@@ -183,7 +183,7 @@ print("Марка машины:", my_car.get_brand())
 
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab8/pic/Lab8_4.png)
 
 ## Выводы
 
@@ -238,7 +238,7 @@ print("Текущая скорость электромобиля:", my_electric
 ```
 
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab8/pic/Lab8_5.png)
 
 ## Выводы
 
