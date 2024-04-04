@@ -31,7 +31,7 @@ for _ in range(2):
 print(a)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab3_1.png)
 
 ## Выводы
 
@@ -48,7 +48,7 @@ for char in reversed(hw):
     print(char)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab3_2.png)
 
 ## Выводы
 
@@ -80,7 +80,7 @@ else:
     print("Введите число от 0 до 10 повторно")
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab3_3.png)
 
 ## Выводы
 
@@ -127,7 +127,7 @@ for sentence in sentences:
     process_sentence(sentence)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab3_4.png)
 
 ## Выводы
 
@@ -215,7 +215,7 @@ while counter != 6:
     counter += 1
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/nichitosx/LABs/blob/Lab2/pic/Lab3_5.png)
 
 ## Выводы
 
