@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab6" />
+    <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab6">
+      <change afterPath="$PROJECT_DIR$/Lab6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +101,11 @@
     "Python.Lab5_3.executor": "Run",
     "Python.Lab5_4.executor": "Run",
     "Python.Lab5_5.executor": "Run",
+    "Python.Lab6_1.executor": "Run",
+    "Python.Lab6_2.executor": "Run",
+    "Python.Lab6_3.executor": "Run",
+    "Python.Lab6_4.executor": "Run",
+    "Python.Lab6_5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Lab6",
