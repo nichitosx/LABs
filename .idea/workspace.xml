@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab10">
+    <list default="true" id="43de4c79-9af1-4ca7-9ffb-2b428f83c732" name="Changes" comment="lab2">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +119,6 @@
     "Python.Lab9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Lab2",
     "last_opened_file_path": "C:/Users/Никита/Desktop/Обучение/Сессия 4/Панов лабы + проект/LABs",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
