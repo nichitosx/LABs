@@ -152,89 +152,43 @@ if __name__ == "__main__":
 Функция average принимает переменное число аргументов args, считает их сумму с помощью sum(args) и делит её на количество переданных аргументов len(args). Если ни одного аргумента не было передано, функция возвращает 0.
 
 ## Самостоятельная работа №5
-Составьте программу, результатом которой будет данный вывод в консоль:
+Создайте два Python файла, в одном будет выполняться вычисление
+площади треугольника при помощи формулы Герона (необходимо
+реализовать через функцию), а во втором будет происходить
+взаимодействие с пользователем (получение всей необходимой
+информации и вывод результатов). Напишите эту программу и
+выведите в консоль полученную площадь
 
-hello world
-
-hello
-
-hello world
-
-hello
-
-hello world
-
-hello
-
-hello world
-
-hello
-
-hello world
-
-hello
-
-hello world
-
-hello
-
-Программу нужно составить из данных фрагментов кода:
-
-memory = ' world'
-
-if values not in string:
-
-while ' world' not in string:
-
-string = string + ' world'
-
-if counter in values:
-
-counter = 10
-
-string = 'hello'
-
-string = memory
-
-string = 'world'
-
-counter = 0
-
-if counter > 7:
-
-print(string + memory)
-
-print(string)
-
-while counter !=10:
-
-values = [0, 2, 4, 6, 8, 10]
-
-memory = string
-
-if counter < 10:
-
-counter += 1
-
-print(memory)
-
-memory = string
-
-Строки кода можно использовать только один раз. Необязательно использовать все строки кода.
-
+Первый файл
 ```python
-string = 'hello'
-memory = ' world'
-counter = 0
-
-while counter != 6:
-    print(string + memory)
-    print(string)
-    counter += 1
+def calculate_triangle_area(a, b, c):
+    # Полупериметр треугольника
+    s = (a + b + c) / 2
+    # Формула Герона для вычисления площади треугольника
+    area = (s * (s - a) * (s - b) * (s - c)) ** 0.5
+    return area
 ```
+
+Второй файл
+```python
+from Lab4_5_1 import calculate_triangle_area
+
+def main():
+    print("Введите длины сторон треугольника:")
+    a = float(input("Сторона a: "))
+    b = float(input("Сторона b: "))
+    c = float(input("Сторона c: "))
+
+    area = calculate_triangle_area(a, b, c)
+    print(f"Площадь треугольника: {area}")
+
+if __name__ == "__main__":
+    main()
+```
+
 ### Результат.
 ![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
 
 ## Выводы
 
-. В каждой итерации цикла программа выводит комбинацию string и memory, а затем только string. Переменная counter используется для отслеживания количества итераций цикла и остановки выполнения после 6 итераций.
+При выполнении файла Lab4_5_2.py пользователь будет приглашен ввести длины сторон треугольника, а программа вычислит этого треугольника через функцию calculate_triangle_area и выведет площадь.
